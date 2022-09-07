@@ -35,8 +35,6 @@ Our shell was built and tested on  Ubuntu 14.04 LTS.
 ```
 ls -la
 ```
-![screenshot of shell](https://user-images.githubusercontent.com/30075600/114757753-e50c2180-9d64-11eb-95ea-fb9bba776c8c.png)
-
 ## Contributors :sunglasses::muscle:
 * [**Sisay Assefa**](https://github.com/SisayAssefa)
 
